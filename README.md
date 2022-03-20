@@ -21,7 +21,7 @@ As well as these Node & Express tutorials as well:
 - https://www.youtube.com/watch?v=qwfE7fSVaZM
 
 ## Demo
-https://issue-sherlock.herokuapp.com
+https://issue-sherlock.herokuapp.com/landing
 
 
 ### Landing Page
